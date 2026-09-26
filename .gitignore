@@ -38,3 +38,6 @@ backups/
 .idea/
 .vscode/
 *.swp
+
+# Local sync archive (Cowork)
+.sync/
